@@ -1,0 +1,1 @@
+Proto dosylarındaki Message'lar Client ile Server arasındaki veri iletişiminde kullanılacak türü bildiri.
